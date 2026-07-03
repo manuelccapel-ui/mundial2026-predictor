@@ -1,0 +1,241 @@
+team,match_date,opponent,venue,competition,goals_for,goals_against,result,extra_time,penalties,source,competition_weight
+Algeria,2025-11-13,Zimbabwe,home,International Friendlies,3,1,W,False,False,transfermarkt.com,1.0
+Algeria,2025-11-18,Saudi Arabia,away,International Friendlies,2,0,W,False,False,transfermarkt.com,1.0
+Algeria,2026-03-27,Guatemala,home,International Friendlies,7,0,W,False,False,transfermarkt.com,1.0
+Algeria,2026-03-31,Uruguay,home,International Friendlies,0,0,D,False,False,transfermarkt.com,1.0
+Algeria,2026-06-03,Netherlands,away,International Friendlies,1,0,W,False,False,transfermarkt.com,1.0
+Argentina,2025-11-14,Angola,away,International Friendlies,2,0,W,False,False,transfermarkt.com,1.0
+Argentina,2026-03-28,Mauritania,home,International Friendlies,2,1,W,False,False,transfermarkt.com,1.0
+Argentina,2026-04-01,Zambia,home,International Friendlies,5,0,W,False,False,transfermarkt.com,1.0
+Argentina,2026-06-07,Honduras,home,International Friendlies,2,0,W,False,False,transfermarkt.com,1.0
+Argentina,2026-06-10,Iceland,away,International Friendlies,3,0,W,False,False,transfermarkt.com,1.0
+Australia,2025-11-19,Colombia,away,International Friendlies,0,3,L,False,False,transfermarkt.com,1.0
+Australia,2026-03-27,Cameroon,home,International Friendlies,1,0,W,False,False,transfermarkt.com,1.0
+Australia,2026-03-31,Curaçao,home,International Friendlies,5,1,W,False,False,transfermarkt.com,1.0
+Australia,2026-05-31,Mexico,away,International Friendlies,0,1,L,False,False,transfermarkt.com,1.0
+Australia,2026-06-06,Switzerland,away,International Friendlies,1,1,D,False,False,transfermarkt.com,1.0
+Austria,2025-11-15,Cyprus,away,World Cup Qualifiers (Europe),2,0,W,False,False,transfermarkt.com,2.5
+Austria,2025-11-18,Bosnia-Herzegovina,home,World Cup Qualifiers (Europe),1,1,D,False,False,transfermarkt.com,2.5
+Austria,2026-03-27,Ghana,home,International Friendlies,5,1,W,False,False,transfermarkt.com,1.0
+Austria,2026-03-31,South Korea,home,International Friendlies,1,0,W,False,False,transfermarkt.com,1.0
+Austria,2026-06-01,Tunisia,home,International Friendlies,1,0,W,False,False,transfermarkt.com,1.0
+Belgium,2025-11-18,Liechtenstein,home,World Cup Qualifiers (Europe),7,0,W,False,False,transfermarkt.com,2.5
+Belgium,2026-03-28,United States,away,International Friendlies,5,2,W,False,False,transfermarkt.com,1.0
+Belgium,2026-04-01,Mexico,away,International Friendlies,1,1,D,False,False,transfermarkt.com,1.0
+Belgium,2026-06-02,Croatia,away,International Friendlies,2,0,W,False,False,transfermarkt.com,1.0
+Belgium,2026-06-06,Tunisia,home,International Friendlies,5,0,W,False,False,transfermarkt.com,1.0
+Bosnia and Herzegovina,2025-10-12,Malta,away,International Friendlies,4,1,W,False,False,transfermarkt.com,1.0
+Bosnia and Herzegovina,2026-03-26,Wales,away,World Cup Qualification Playoffs,4,2,W,False,True,transfermarkt.com,3.0
+Bosnia and Herzegovina,2026-03-31,Italy,home,World Cup Qualification Playoffs,4,1,W,False,True,transfermarkt.com,3.0
+Bosnia and Herzegovina,2026-05-29,North Macedonia,home,International Friendlies,0,0,D,False,False,transfermarkt.com,1.0
+Bosnia and Herzegovina,2026-06-06,Panama,away,International Friendlies,1,1,D,False,False,transfermarkt.com,1.0
+Brazil,2025-11-18,Tunisia,home,International Friendlies,1,1,D,False,False,transfermarkt.com,1.0
+Brazil,2026-03-26,France,home,International Friendlies,1,2,L,False,False,transfermarkt.com,1.0
+Brazil,2026-04-01,Croatia,home,International Friendlies,3,1,W,False,False,transfermarkt.com,1.0
+Brazil,2026-05-31,Panama,home,International Friendlies,6,2,W,False,False,transfermarkt.com,1.0
+Brazil,2026-06-07,Egypt,home,International Friendlies,2,1,W,False,False,transfermarkt.com,1.0
+Cabo Verde,2025-11-18,Egypt,away,International Friendlies,1,1,D,False,False,transfermarkt.com,1.0
+Cabo Verde,2026-03-27,Chile,away,International Friendlies,2,4,L,False,False,transfermarkt.com,1.0
+Cabo Verde,2026-03-30,Finland,home,International Friendlies,1,1,D,False,False,transfermarkt.com,1.0
+Cabo Verde,2026-05-31,Serbia,home,International Friendlies,3,0,W,False,False,transfermarkt.com,1.0
+Cabo Verde,2026-06-06,Bermuda,home,International Friendlies,3,0,W,False,False,transfermarkt.com,1.0
+Canada,2026-01-18,Guatemala,away,International Friendlies,1,0,W,False,False,transfermarkt.com,1.0
+Canada,2026-03-28,Iceland,home,International Friendlies,2,2,D,False,False,transfermarkt.com,1.0
+Canada,2026-04-01,Tunisia,home,International Friendlies,0,0,D,False,False,transfermarkt.com,1.0
+Canada,2026-06-02,Uzbekistan,home,International Friendlies,2,0,W,False,False,transfermarkt.com,1.0
+Canada,2026-06-06,Republic of Ireland,home,International Friendlies,1,1,D,False,False,transfermarkt.com,1.0
+Colombia,2025-11-19,Australia,home,International Friendlies,3,0,W,False,False,transfermarkt.com,1.0
+Colombia,2026-03-27,Croatia,home,International Friendlies,1,2,L,False,False,transfermarkt.com,1.0
+Colombia,2026-03-29,France,away,International Friendlies,1,3,L,False,False,transfermarkt.com,1.0
+Colombia,2026-06-02,Costa Rica,home,International Friendlies,3,1,W,False,False,transfermarkt.com,1.0
+Colombia,2026-06-08,Jordan,home,International Friendlies,2,0,W,False,False,transfermarkt.com,1.0
+Congo DR,2025-12-16,Zambia,home,International Friendlies,2,0,W,False,False,transfermarkt.com,1.0
+Congo DR,2026-03-25,Bermuda,home,International Friendlies,2,0,W,False,False,transfermarkt.com,1.0
+Congo DR,2026-03-31,Jamaica,home,World Cup Qualification Playoffs,1,0,W,True,False,transfermarkt.com,3.0
+Congo DR,2026-06-03,Denmark,home,International Friendlies,0,0,D,False,False,transfermarkt.com,1.0
+Congo DR,2026-06-09,Chile,home,International Friendlies,1,2,L,False,False,transfermarkt.com,1.0
+Croatia,2025-11-17,Montenegro,away,World Cup Qualifiers (Europe),3,2,W,False,False,transfermarkt.com,2.5
+Croatia,2026-03-27,Colombia,away,International Friendlies,2,1,W,False,False,transfermarkt.com,1.0
+Croatia,2026-04-01,Brazil,away,International Friendlies,1,3,L,False,False,transfermarkt.com,1.0
+Croatia,2026-06-02,Belgium,home,International Friendlies,0,2,L,False,False,transfermarkt.com,1.0
+Croatia,2026-06-07,Slovenia,home,International Friendlies,2,1,W,False,False,transfermarkt.com,1.0
+Curaçao,2025-06-25,Honduras,away,Gold Cup,1,2,L,False,False,transfermarkt.com,2.0
+Curaçao,2026-03-27,China,away,International Friendlies,0,2,L,False,False,transfermarkt.com,1.0
+Curaçao,2026-03-31,Australia,away,International Friendlies,1,5,L,False,False,transfermarkt.com,1.0
+Curaçao,2026-05-30,Scotland,away,International Friendlies,1,4,L,False,False,transfermarkt.com,1.0
+Curaçao,2026-06-07,Aruba,home,International Friendlies,4,0,W,False,False,transfermarkt.com,1.0
+Czechia,2025-11-13,San Marino,home,International Friendlies,1,0,W,False,False,transfermarkt.com,1.0
+Czechia,2026-03-26,Republic of Ireland,home,World Cup Qualification Playoffs,6,5,W,False,True,transfermarkt.com,3.0
+Czechia,2026-03-31,Denmark,home,World Cup Qualification Playoffs,5,3,W,False,True,transfermarkt.com,3.0
+Czechia,2026-05-31,Kosovo,home,International Friendlies,2,1,W,False,False,transfermarkt.com,1.0
+Czechia,2026-06-05,Guatemala,away,International Friendlies,3,1,W,False,False,transfermarkt.com,1.0
+Côte d'Ivoire,2025-11-14,Saudi Arabia,away,International Friendlies,0,1,L,False,False,transfermarkt.com,1.0
+Côte d'Ivoire,2025-11-18,Oman,away,International Friendlies,2,0,W,False,False,transfermarkt.com,1.0
+Côte d'Ivoire,2026-03-28,South Korea,away,International Friendlies,4,0,W,False,False,transfermarkt.com,1.0
+Côte d'Ivoire,2026-03-31,Scotland,away,International Friendlies,1,0,W,False,False,transfermarkt.com,1.0
+Côte d'Ivoire,2026-06-04,France,away,International Friendlies,2,1,W,False,False,transfermarkt.com,1.0
+Ecuador,2025-11-19,New Zealand,home,International Friendlies,2,0,W,False,False,transfermarkt.com,1.0
+Ecuador,2026-03-27,Morocco,away,International Friendlies,1,1,D,False,False,transfermarkt.com,1.0
+Ecuador,2026-03-31,Netherlands,away,International Friendlies,1,1,D,False,False,transfermarkt.com,1.0
+Ecuador,2026-05-31,Saudi Arabia,home,International Friendlies,2,1,W,False,False,transfermarkt.com,1.0
+Ecuador,2026-06-07,Guatemala,home,International Friendlies,3,0,W,False,False,transfermarkt.com,1.0
+Egypt,2025-12-16,Nigeria,home,International Friendlies,2,1,W,False,False,transfermarkt.com,1.0
+Egypt,2026-03-27,Saudi Arabia,away,International Friendlies,4,0,W,False,False,transfermarkt.com,1.0
+Egypt,2026-03-31,Spain,away,International Friendlies,0,0,D,False,False,transfermarkt.com,1.0
+Egypt,2026-05-28,Russia,home,International Friendlies,1,0,W,False,False,transfermarkt.com,1.0
+Egypt,2026-06-07,Brazil,away,International Friendlies,1,2,L,False,False,transfermarkt.com,1.0
+England,2025-10-09,Wales,home,International Friendlies,3,0,W,False,False,transfermarkt.com,1.0
+England,2026-03-27,Uruguay,home,International Friendlies,1,1,D,False,False,transfermarkt.com,1.0
+England,2026-03-31,Japan,home,International Friendlies,0,1,L,False,False,transfermarkt.com,1.0
+England,2026-06-06,New Zealand,home,International Friendlies,1,0,W,False,False,transfermarkt.com,1.0
+England,2026-06-10,Costa Rica,home,International Friendlies,3,0,W,False,False,transfermarkt.com,1.0
+France,2025-11-16,Azerbaijan,away,World Cup Qualifiers (Europe),3,1,W,False,False,transfermarkt.com,2.5
+France,2026-03-26,Brazil,away,International Friendlies,2,1,W,False,False,transfermarkt.com,1.0
+France,2026-03-29,Colombia,home,International Friendlies,3,1,W,False,False,transfermarkt.com,1.0
+France,2026-06-04,Ivory Coast,home,International Friendlies,1,2,L,False,False,transfermarkt.com,1.0
+France,2026-06-08,Northern Ireland,home,International Friendlies,3,1,W,False,False,transfermarkt.com,1.0
+Germany,2025-11-17,Slovakia,home,World Cup Qualifiers (Europe),6,0,W,False,False,transfermarkt.com,2.5
+Germany,2026-03-27,Switzerland,away,International Friendlies,4,3,W,False,False,transfermarkt.com,1.0
+Germany,2026-03-30,Ghana,home,International Friendlies,2,1,W,False,False,transfermarkt.com,1.0
+Germany,2026-05-31,Finland,home,International Friendlies,4,0,W,False,False,transfermarkt.com,1.0
+Germany,2026-06-06,United States,away,International Friendlies,2,1,W,False,False,transfermarkt.com,1.0
+Ghana,2025-11-18,South Korea,away,International Friendlies,0,1,L,False,False,transfermarkt.com,1.0
+Ghana,2026-03-27,Austria,away,International Friendlies,1,5,L,False,False,transfermarkt.com,1.0
+Ghana,2026-03-30,Germany,away,International Friendlies,1,2,L,False,False,transfermarkt.com,1.0
+Ghana,2026-05-23,Mexico,away,International Friendlies,0,2,L,False,False,transfermarkt.com,1.0
+Ghana,2026-06-02,Wales,away,International Friendlies,1,1,D,False,False,transfermarkt.com,1.0
+Haiti,2025-06-23,United States,away,Gold Cup,1,2,L,False,False,transfermarkt.com,2.0
+Haiti,2026-03-29,Tunisia,home,International Friendlies,0,1,L,False,False,transfermarkt.com,1.0
+Haiti,2026-03-31,Iceland,home,International Friendlies,1,1,D,False,False,transfermarkt.com,1.0
+Haiti,2026-06-03,New Zealand,home,International Friendlies,4,0,W,False,False,transfermarkt.com,1.0
+Haiti,2026-06-06,Peru,home,International Friendlies,1,2,L,False,False,transfermarkt.com,1.0
+IR Iran,2025-11-18,Uzbekistan,away,International Friendlies,3,4,L,False,True,transfermarkt.com,1.0
+IR Iran,2026-03-27,Nigeria,home,International Friendlies,1,2,L,False,False,transfermarkt.com,1.0
+IR Iran,2026-03-31,Costa Rica,away,International Friendlies,5,0,W,False,False,transfermarkt.com,1.0
+IR Iran,2026-05-29,The Gambia,home,International Friendlies,3,1,W,False,False,transfermarkt.com,1.0
+IR Iran,2026-06-04,Mali,home,International Friendlies,2,0,W,False,False,transfermarkt.com,1.0
+Iraq,2025-09-07,Thailand,away,International Friendlies,1,0,W,False,False,transfermarkt.com,1.0
+Iraq,2026-04-01,Bolivia,home,World Cup Qualification Playoffs,2,1,W,False,False,transfermarkt.com,3.0
+Iraq,2026-05-29,Andorra,away,International Friendlies,1,0,W,False,False,transfermarkt.com,1.0
+Iraq,2026-06-04,Spain,away,International Friendlies,1,1,D,False,False,transfermarkt.com,1.0
+Iraq,2026-06-10,Venezuela,away,International Friendlies,0,2,L,False,False,transfermarkt.com,1.0
+Japan,2025-11-14,Ghana,home,International Friendlies,2,0,W,False,False,transfermarkt.com,1.0
+Japan,2025-11-18,Bolivia,home,International Friendlies,3,0,W,False,False,transfermarkt.com,1.0
+Japan,2026-03-28,Scotland,away,International Friendlies,1,0,W,False,False,transfermarkt.com,1.0
+Japan,2026-03-31,England,away,International Friendlies,1,0,W,False,False,transfermarkt.com,1.0
+Japan,2026-05-31,Iceland,home,International Friendlies,1,0,W,False,False,transfermarkt.com,1.0
+Jordan,2025-11-18,Mali,home,International Friendlies,0,0,D,False,False,transfermarkt.com,1.0
+Jordan,2026-03-27,Costa Rica,home,International Friendlies,2,2,D,False,False,transfermarkt.com,1.0
+Jordan,2026-03-31,Nigeria,home,International Friendlies,2,2,D,False,False,transfermarkt.com,1.0
+Jordan,2026-05-31,Switzerland,away,International Friendlies,1,4,L,False,False,transfermarkt.com,1.0
+Jordan,2026-06-08,Colombia,away,International Friendlies,0,2,L,False,False,transfermarkt.com,1.0
+Mexico,2026-03-29,Portugal,home,International Friendlies,0,0,D,False,False,transfermarkt.com,1.0
+Mexico,2026-04-01,Belgium,home,International Friendlies,1,1,D,False,False,transfermarkt.com,1.0
+Mexico,2026-05-23,Ghana,home,International Friendlies,2,0,W,False,False,transfermarkt.com,1.0
+Mexico,2026-05-31,Australia,home,International Friendlies,1,0,W,False,False,transfermarkt.com,1.0
+Mexico,2026-06-05,Serbia,home,International Friendlies,5,1,W,False,False,transfermarkt.com,1.0
+Morocco,2026-03-27,Ecuador,home,International Friendlies,1,1,D,False,False,transfermarkt.com,1.0
+Morocco,2026-03-31,Paraguay,home,International Friendlies,2,1,W,False,False,transfermarkt.com,1.0
+Morocco,2026-05-26,Burundi,home,International Friendlies,5,0,W,False,False,transfermarkt.com,1.0
+Morocco,2026-06-02,Madagascar,home,International Friendlies,4,0,W,False,False,transfermarkt.com,1.0
+Morocco,2026-06-07,Norway,home,International Friendlies,1,1,D,False,False,transfermarkt.com,1.0
+Netherlands,2025-11-17,Lithuania,home,World Cup Qualifiers (Europe),4,0,W,False,False,transfermarkt.com,2.5
+Netherlands,2026-03-27,Norway,home,International Friendlies,2,1,W,False,False,transfermarkt.com,1.0
+Netherlands,2026-03-31,Ecuador,home,International Friendlies,1,1,D,False,False,transfermarkt.com,1.0
+Netherlands,2026-06-03,Algeria,home,International Friendlies,0,1,L,False,False,transfermarkt.com,1.0
+Netherlands,2026-06-08,Uzbekistan,home,International Friendlies,2,1,W,False,False,transfermarkt.com,1.0
+New Zealand,2025-11-19,Ecuador,away,International Friendlies,0,2,L,False,False,transfermarkt.com,1.0
+New Zealand,2026-03-27,Finland,home,International Friendlies,0,2,L,False,False,transfermarkt.com,1.0
+New Zealand,2026-03-30,Chile,home,International Friendlies,4,1,W,False,False,transfermarkt.com,1.0
+New Zealand,2026-06-03,Haiti,away,International Friendlies,0,4,L,False,False,transfermarkt.com,1.0
+New Zealand,2026-06-06,England,away,International Friendlies,0,1,L,False,False,transfermarkt.com,1.0
+Norway,2025-10-14,New Zealand,home,International Friendlies,1,1,D,False,False,transfermarkt.com,1.0
+Norway,2026-03-27,Netherlands,away,International Friendlies,1,2,L,False,False,transfermarkt.com,1.0
+Norway,2026-03-31,Switzerland,home,International Friendlies,0,0,D,False,False,transfermarkt.com,1.0
+Norway,2026-06-01,Sweden,home,International Friendlies,3,1,W,False,False,transfermarkt.com,1.0
+Norway,2026-06-07,Morocco,away,International Friendlies,1,1,D,False,False,transfermarkt.com,1.0
+Panama,2026-03-27,South Africa,away,International Friendlies,1,1,D,False,False,transfermarkt.com,1.0
+Panama,2026-03-31,South Africa,away,International Friendlies,2,1,W,False,False,transfermarkt.com,1.0
+Panama,2026-05-31,Brazil,away,International Friendlies,2,6,L,False,False,transfermarkt.com,1.0
+Panama,2026-06-04,Dominican Republic,home,International Friendlies,4,2,W,False,False,transfermarkt.com,1.0
+Panama,2026-06-06,Bosnia-Herzegovina,home,International Friendlies,1,1,D,False,False,transfermarkt.com,1.0
+Paraguay,2025-11-15,United States,away,International Friendlies,1,2,L,False,False,transfermarkt.com,1.0
+Paraguay,2025-11-19,Mexico,away,International Friendlies,2,1,W,False,False,transfermarkt.com,1.0
+Paraguay,2026-03-27,Greece,away,International Friendlies,1,0,W,False,False,transfermarkt.com,1.0
+Paraguay,2026-03-31,Morocco,away,International Friendlies,1,2,L,False,False,transfermarkt.com,1.0
+Paraguay,2026-06-06,Nicaragua,home,International Friendlies,4,0,W,False,False,transfermarkt.com,1.0
+Portugal,2025-11-16,Armenia,home,World Cup Qualifiers (Europe),9,1,W,False,False,transfermarkt.com,2.5
+Portugal,2026-03-29,Mexico,away,International Friendlies,0,0,D,False,False,transfermarkt.com,1.0
+Portugal,2026-04-01,United States,away,International Friendlies,2,0,W,False,False,transfermarkt.com,1.0
+Portugal,2026-06-06,Chile,home,International Friendlies,2,1,W,False,False,transfermarkt.com,1.0
+Portugal,2026-06-10,Nigeria,home,International Friendlies,2,1,W,False,False,transfermarkt.com,1.0
+Qatar,2025-09-03,Bahrain,home,International Friendlies,2,2,D,False,False,transfermarkt.com,1.0
+Qatar,2025-09-07,Russia,home,International Friendlies,1,4,L,False,False,transfermarkt.com,1.0
+Qatar,2025-11-17,Zimbabwe,home,International Friendlies,1,2,L,False,False,transfermarkt.com,1.0
+Qatar,2026-05-28,Republic of Ireland,away,International Friendlies,0,1,L,False,False,transfermarkt.com,1.0
+Qatar,2026-06-06,El Salvador,home,International Friendlies,0,0,D,False,False,transfermarkt.com,1.0
+Saudi Arabia,2026-03-27,Egypt,home,International Friendlies,0,4,L,False,False,transfermarkt.com,1.0
+Saudi Arabia,2026-03-31,Serbia,away,International Friendlies,1,2,L,False,False,transfermarkt.com,1.0
+Saudi Arabia,2026-05-31,Ecuador,away,International Friendlies,1,2,L,False,False,transfermarkt.com,1.0
+Saudi Arabia,2026-06-06,Puerto Rico,away,International Friendlies,3,0,W,False,False,transfermarkt.com,1.0
+Saudi Arabia,2026-06-10,Senegal,home,International Friendlies,0,0,D,False,False,transfermarkt.com,1.0
+Scotland,2025-11-18,Denmark,home,World Cup Qualifiers (Europe),4,2,W,False,False,transfermarkt.com,2.5
+Scotland,2026-03-28,Japan,home,International Friendlies,0,1,L,False,False,transfermarkt.com,1.0
+Scotland,2026-03-31,Ivory Coast,home,International Friendlies,0,1,L,False,False,transfermarkt.com,1.0
+Scotland,2026-05-30,Curaçao,home,International Friendlies,4,1,W,False,False,transfermarkt.com,1.0
+Scotland,2026-06-06,Bolivia,away,International Friendlies,4,0,W,False,False,transfermarkt.com,1.0
+Senegal,2025-11-18,Kenya,home,International Friendlies,8,0,W,False,False,transfermarkt.com,1.0
+Senegal,2026-03-28,Peru,home,International Friendlies,2,0,W,False,False,transfermarkt.com,1.0
+Senegal,2026-03-31,The Gambia,home,International Friendlies,3,1,W,False,False,transfermarkt.com,1.0
+Senegal,2026-05-31,United States,away,International Friendlies,2,3,L,False,False,transfermarkt.com,1.0
+Senegal,2026-06-10,Saudi Arabia,away,International Friendlies,0,0,D,False,False,transfermarkt.com,1.0
+South Africa,2025-11-15,Zambia,home,International Friendlies,3,1,W,False,False,transfermarkt.com,1.0
+South Africa,2026-03-27,Panama,home,International Friendlies,1,1,D,False,False,transfermarkt.com,1.0
+South Africa,2026-03-31,Panama,home,International Friendlies,1,2,L,False,False,transfermarkt.com,1.0
+South Africa,2026-05-29,Nicaragua,home,International Friendlies,0,0,D,False,False,transfermarkt.com,1.0
+South Africa,2026-06-06,Jamaica,away,International Friendlies,1,1,D,False,False,transfermarkt.com,1.0
+South Korea,2025-11-18,Ghana,home,International Friendlies,1,0,W,False,False,transfermarkt.com,1.0
+South Korea,2026-03-28,Ivory Coast,home,International Friendlies,0,4,L,False,False,transfermarkt.com,1.0
+South Korea,2026-03-31,Austria,away,International Friendlies,0,1,L,False,False,transfermarkt.com,1.0
+South Korea,2026-05-31,Trinidad and Tobago,home,International Friendlies,5,0,W,False,False,transfermarkt.com,1.0
+South Korea,2026-06-04,El Salvador,home,International Friendlies,1,0,W,False,False,transfermarkt.com,1.0
+Spain,2025-11-18,Turkiye,home,World Cup Qualifiers (Europe),2,2,D,False,False,transfermarkt.com,2.5
+Spain,2026-03-27,Serbia,home,International Friendlies,3,0,W,False,False,transfermarkt.com,1.0
+Spain,2026-03-31,Egypt,home,International Friendlies,0,0,D,False,False,transfermarkt.com,1.0
+Spain,2026-06-04,Iraq,home,International Friendlies,1,1,D,False,False,transfermarkt.com,1.0
+Spain,2026-06-09,Peru,away,International Friendlies,3,1,W,False,False,transfermarkt.com,1.0
+Sweden,2025-11-18,Slovenia,home,World Cup Qualifiers (Europe),1,1,D,False,False,transfermarkt.com,2.5
+Sweden,2026-03-26,Ukraine,away,World Cup Qualification Playoffs,3,1,W,False,False,transfermarkt.com,3.0
+Sweden,2026-03-31,Poland,home,World Cup Qualification Playoffs,3,2,W,False,False,transfermarkt.com,3.0
+Sweden,2026-06-01,Norway,away,International Friendlies,1,3,L,False,False,transfermarkt.com,1.0
+Sweden,2026-06-04,Greece,home,International Friendlies,2,2,D,False,False,transfermarkt.com,1.0
+Switzerland,2025-11-18,Kosovo,away,World Cup Qualifiers (Europe),1,1,D,False,False,transfermarkt.com,2.5
+Switzerland,2026-03-27,Germany,home,International Friendlies,3,4,L,False,False,transfermarkt.com,1.0
+Switzerland,2026-03-31,Norway,away,International Friendlies,0,0,D,False,False,transfermarkt.com,1.0
+Switzerland,2026-05-31,Jordan,home,International Friendlies,4,1,W,False,False,transfermarkt.com,1.0
+Switzerland,2026-06-06,Australia,home,International Friendlies,1,1,D,False,False,transfermarkt.com,1.0
+Tunisia,2025-12-18,Botswana,home,International Friendlies,2,1,W,False,False,transfermarkt.com,1.0
+Tunisia,2026-03-29,Haiti,away,International Friendlies,1,0,W,False,False,transfermarkt.com,1.0
+Tunisia,2026-04-01,Canada,away,International Friendlies,0,0,D,False,False,transfermarkt.com,1.0
+Tunisia,2026-06-01,Austria,away,International Friendlies,0,1,L,False,False,transfermarkt.com,1.0
+Tunisia,2026-06-06,Belgium,away,International Friendlies,0,5,L,False,False,transfermarkt.com,1.0
+Türkiye,2025-11-18,Spain,away,World Cup Qualifiers (Europe),2,2,D,False,False,transfermarkt.com,2.5
+Türkiye,2026-03-26,Romania,home,World Cup Qualification Playoffs,1,0,W,False,False,transfermarkt.com,3.0
+Türkiye,2026-03-31,Kosovo,away,World Cup Qualification Playoffs,1,0,W,False,False,transfermarkt.com,3.0
+Türkiye,2026-06-01,North Macedonia,home,International Friendlies,4,0,W,False,False,transfermarkt.com,1.0
+Türkiye,2026-06-07,Venezuela,home,International Friendlies,2,1,W,False,False,transfermarkt.com,1.0
+USA,2025-11-19,Uruguay,home,International Friendlies,5,1,W,False,False,transfermarkt.com,1.0
+USA,2026-03-28,Belgium,home,International Friendlies,2,5,L,False,False,transfermarkt.com,1.0
+USA,2026-04-01,Portugal,home,International Friendlies,0,2,L,False,False,transfermarkt.com,1.0
+USA,2026-05-31,Senegal,home,International Friendlies,3,2,W,False,False,transfermarkt.com,1.0
+USA,2026-06-06,Germany,home,International Friendlies,1,2,L,False,False,transfermarkt.com,1.0
+Uruguay,2025-10-13,Uzbekistan,away,International Friendlies,2,1,W,False,False,transfermarkt.com,1.0
+Uruguay,2025-11-16,Mexico,away,International Friendlies,0,0,D,False,False,transfermarkt.com,1.0
+Uruguay,2025-11-19,United States,away,International Friendlies,1,5,L,False,False,transfermarkt.com,1.0
+Uruguay,2026-03-27,England,away,International Friendlies,1,1,D,False,False,transfermarkt.com,1.0
+Uruguay,2026-03-31,Algeria,away,International Friendlies,0,0,D,False,False,transfermarkt.com,1.0
+Uzbekistan,2025-11-18,Iran,home,International Friendlies,4,3,W,False,True,transfermarkt.com,1.0
+Uzbekistan,2026-03-27,Gabon,home,International Friendlies,3,1,W,False,False,transfermarkt.com,1.0
+Uzbekistan,2026-03-30,Venezuela,home,International Friendlies,5,4,W,False,True,transfermarkt.com,1.0
+Uzbekistan,2026-06-02,Canada,away,International Friendlies,0,2,L,False,False,transfermarkt.com,1.0
+Uzbekistan,2026-06-08,Netherlands,away,International Friendlies,1,2,L,False,False,transfermarkt.com,1.0

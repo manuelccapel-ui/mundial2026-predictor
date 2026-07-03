@@ -1,0 +1,41 @@
+# HTML cacheado por los scrapers (FBref, Transfermarkt) — se regenera solo
+cache/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+ENV/
+
+# Variables de entorno / secretos
+.env
+.env.*
+
+# Credenciales de la API de Kaggle (kagglehub / opendatasets / kaggle-cli)
+# Ruta por defecto en Windows: %USERPROFILE%\.kaggle\kaggle.json
+# Ruta por defecto en Linux/Mac: ~/.kaggle/kaggle.json
+kaggle.json
+.kaggle/
+*kaggle*.json
+
+# Otros posibles ficheros de credenciales/tokens
+*.token
+*.pem
+*.key
+credentials.json
+secrets.json
+
+# Caché local de kagglehub, por si se genera dentro del proyecto
+.cache/
+kagglehub/
+
+# Sistema operativo / editor
+.DS_Store
+Thumbs.db
+.vscode/

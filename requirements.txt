@@ -1,0 +1,17 @@
+# Notebook de datos (mundial2026_datos.ipynb)
+kagglehub>=1.0.2
+pandas>=2.0
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=5.0
+nodriver>=0.40          # scraper complementario de FBref (opcional, manual)
+
+# Notebook de modelo (mundial2026_modelo.ipynb)
+xgboost>=2.0
+scikit-learn>=1.4
+matplotlib>=3.8
+
+# Para ejecutar los notebooks
+jupyter>=1.0
+ipykernel>=6.29
+nbformat>=5.10

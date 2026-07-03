@@ -1,0 +1,275 @@
+{
+  "source": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_knockout_stage",
+  "verified_against": "world_cup_matches.csv (16/16 partidos de dieciseisavos ya jugados coinciden)",
+  "groups": {
+    "A": [
+      "Mexico",
+      "South Africa",
+      "South Korea",
+      "Czechia"
+    ],
+    "B": [
+      "Canada",
+      "Bosnia and Herzegovina",
+      "Qatar",
+      "Switzerland"
+    ],
+    "C": [
+      "Brazil",
+      "Morocco",
+      "Haiti",
+      "Scotland"
+    ],
+    "D": [
+      "USA",
+      "Paraguay",
+      "Australia",
+      "Türkiye"
+    ],
+    "E": [
+      "Germany",
+      "Curaçao",
+      "Côte d'Ivoire",
+      "Ecuador"
+    ],
+    "F": [
+      "Netherlands",
+      "Japan",
+      "Sweden",
+      "Tunisia"
+    ],
+    "G": [
+      "Belgium",
+      "Egypt",
+      "IR Iran",
+      "New Zealand"
+    ],
+    "H": [
+      "Spain",
+      "Cabo Verde",
+      "Saudi Arabia",
+      "Uruguay"
+    ],
+    "I": [
+      "France",
+      "Senegal",
+      "Iraq",
+      "Norway"
+    ],
+    "J": [
+      "Argentina",
+      "Algeria",
+      "Austria",
+      "Jordan"
+    ],
+    "K": [
+      "Portugal",
+      "Congo DR",
+      "Uzbekistan",
+      "Colombia"
+    ],
+    "L": [
+      "England",
+      "Croatia",
+      "Ghana",
+      "Panama"
+    ]
+  },
+  "third_place_ranking_criteria": [
+    "points",
+    "goal_difference",
+    "goals_for"
+  ],
+  "third_place_ranking_note": "Simplificación de los desempates completos de la FIFA (que también usan enfrentamiento directo, fair play y sorteo); estos 3 criterios ya reproducen el resultado real de este Mundial.",
+  "qualified_third_place_groups_2026": [
+    "B",
+    "D",
+    "E",
+    "F",
+    "I",
+    "J",
+    "K",
+    "L"
+  ],
+  "third_place_combination_note": "El Anexo C del reglamento FIFA define 495 combinaciones posibles; aquí solo se modela la que realmente se dio (fase de grupos ya completa e inmutable).",
+  "round_of_32": [
+    {
+      "match_number": 73,
+      "home_slot": "2A",
+      "away_slot": "2B"
+    },
+    {
+      "match_number": 74,
+      "home_slot": "1E",
+      "away_slot": "3D"
+    },
+    {
+      "match_number": 75,
+      "home_slot": "1F",
+      "away_slot": "2C"
+    },
+    {
+      "match_number": 76,
+      "home_slot": "1C",
+      "away_slot": "2F"
+    },
+    {
+      "match_number": 77,
+      "home_slot": "1I",
+      "away_slot": "3F"
+    },
+    {
+      "match_number": 78,
+      "home_slot": "2E",
+      "away_slot": "2I"
+    },
+    {
+      "match_number": 79,
+      "home_slot": "1A",
+      "away_slot": "3E"
+    },
+    {
+      "match_number": 80,
+      "home_slot": "1L",
+      "away_slot": "3K"
+    },
+    {
+      "match_number": 81,
+      "home_slot": "1D",
+      "away_slot": "3B"
+    },
+    {
+      "match_number": 82,
+      "home_slot": "1G",
+      "away_slot": "3I"
+    },
+    {
+      "match_number": 83,
+      "home_slot": "2K",
+      "away_slot": "2L"
+    },
+    {
+      "match_number": 84,
+      "home_slot": "1H",
+      "away_slot": "2J"
+    },
+    {
+      "match_number": 85,
+      "home_slot": "1B",
+      "away_slot": "3J"
+    },
+    {
+      "match_number": 86,
+      "home_slot": "1J",
+      "away_slot": "2H"
+    },
+    {
+      "match_number": 87,
+      "home_slot": "1K",
+      "away_slot": "3L"
+    },
+    {
+      "match_number": 88,
+      "home_slot": "2D",
+      "away_slot": "2G"
+    }
+  ],
+  "progression": [
+    {
+      "match_number": 89,
+      "round": "Round of 16",
+      "home_source": "W73",
+      "away_source": "W74"
+    },
+    {
+      "match_number": 90,
+      "round": "Round of 16",
+      "home_source": "W75",
+      "away_source": "W76"
+    },
+    {
+      "match_number": 91,
+      "round": "Round of 16",
+      "home_source": "W77",
+      "away_source": "W78"
+    },
+    {
+      "match_number": 92,
+      "round": "Round of 16",
+      "home_source": "W79",
+      "away_source": "W80"
+    },
+    {
+      "match_number": 93,
+      "round": "Round of 16",
+      "home_source": "W81",
+      "away_source": "W82"
+    },
+    {
+      "match_number": 94,
+      "round": "Round of 16",
+      "home_source": "W83",
+      "away_source": "W84"
+    },
+    {
+      "match_number": 95,
+      "round": "Round of 16",
+      "home_source": "W85",
+      "away_source": "W86"
+    },
+    {
+      "match_number": 96,
+      "round": "Round of 16",
+      "home_source": "W87",
+      "away_source": "W88"
+    },
+    {
+      "match_number": 97,
+      "round": "Quarterfinal",
+      "home_source": "W89",
+      "away_source": "W90"
+    },
+    {
+      "match_number": 98,
+      "round": "Quarterfinal",
+      "home_source": "W91",
+      "away_source": "W92"
+    },
+    {
+      "match_number": 99,
+      "round": "Quarterfinal",
+      "home_source": "W93",
+      "away_source": "W94"
+    },
+    {
+      "match_number": 100,
+      "round": "Quarterfinal",
+      "home_source": "W95",
+      "away_source": "W96"
+    },
+    {
+      "match_number": 101,
+      "round": "Semifinal",
+      "home_source": "W97",
+      "away_source": "W98"
+    },
+    {
+      "match_number": 102,
+      "round": "Semifinal",
+      "home_source": "W99",
+      "away_source": "W100"
+    },
+    {
+      "match_number": 103,
+      "round": "Third place",
+      "home_source": "L101",
+      "away_source": "L102"
+    },
+    {
+      "match_number": 104,
+      "round": "Final",
+      "home_source": "W101",
+      "away_source": "W102"
+    }
+  ]
+}
