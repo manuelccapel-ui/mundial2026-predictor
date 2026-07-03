@@ -1,6 +1,6 @@
 {
   "source": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_knockout_stage",
-  "verified_against": "world_cup_matches.csv (16/16 partidos de dieciseisavos ya jugados coinciden)",
+  "verified_against": "Octavos confirmados por FIFA el 3-jul-2026: Canada-Morocco(M89), Paraguay-France(M90), Brazil-Norway(M91), Mexico-England(M92), USA-Belgium(M93), Portugal-Spain(M94). Progresion corregida: cruces cruzados 73+75, 74+77, 76+78, 85+87, 86+88 (NO consecutivos).",
   "groups": {
     "A": [
       "Mexico",
@@ -179,18 +179,18 @@
       "match_number": 89,
       "round": "Round of 16",
       "home_source": "W73",
-      "away_source": "W74"
+      "away_source": "W75"
     },
     {
       "match_number": 90,
       "round": "Round of 16",
-      "home_source": "W75",
-      "away_source": "W76"
+      "home_source": "W74",
+      "away_source": "W77"
     },
     {
       "match_number": 91,
       "round": "Round of 16",
-      "home_source": "W77",
+      "home_source": "W76",
       "away_source": "W78"
     },
     {
@@ -215,12 +215,12 @@
       "match_number": 95,
       "round": "Round of 16",
       "home_source": "W85",
-      "away_source": "W86"
+      "away_source": "W87"
     },
     {
       "match_number": 96,
       "round": "Round of 16",
-      "home_source": "W87",
+      "home_source": "W86",
       "away_source": "W88"
     },
     {

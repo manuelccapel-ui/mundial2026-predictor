@@ -119,23 +119,33 @@ Marcadores más probables:
 `display_prediction("Portugal", "Croatia", "Round of 32")` da la misma
 información en forma de heatmap + tabla + barras 1X2 + texto destacado.
 
-## Estado actual del proyecto
+## Estado actual del proyecto (3-jul-2026)
 
 **Completado:**
 - Scraping e integración de datos (Kaggle + Transfermarkt + FBref complementario)
-- Estructura del cuadro de eliminatorias y resolución de casillas (`get_bracket_state`)
+- Estructura del cuadro de eliminatorias corregida y validada contra los 6
+  octavos confirmados por FIFA (3-jul-2026): Canada-Morocco, Paraguay-France,
+  Brazil-Norway, Mexico-England, USA-Belgium, Portugal-Spain
 - Feature engineering (Elo, ranking FIFA, forma ponderada por importancia de
   competición, fase, descanso)
 - Modelo híbrido Poisson (local) + XGBoost (visitante), validado con split
-  temporal train/test
+  temporal train/test (83 partidos jugados a 3-jul-2026)
 - `predict_match()` y visualización (`display_prediction()`)
+- `predict_round()` — tabla de predicciones de una ronda completa
+- **Simulación Monte Carlo** (`simulate_tournament()`, sección 8 del notebook
+  de modelo): 10 000 repeticiones del cuadro, probabilidades de avance por
+  selección hasta campeón. Resultados guardados en `data/monte_carlo_probs.csv`
+- Caché con TTL (schedule FBref: 6 h; match reports recientes: 4 h)
+- `complement_with_fbref()` como fuente primaria de marcadores recientes
+  (Kaggle puede tardar ~1 día; FBref los tiene antes)
+- `clear_recent_cache(days=N)` para refrescar solo la caché de partidos recientes
 
-**Pendiente:**
-- Simulación Monte Carlo del torneo completo (miles de repeticiones del cuadro
-  usando `predict_match()` en cada ronda) para estimar probabilidades de
-  campeón, semifinalista, etc.
+**Pendiente / manual:**
+- Ejecutar `complement_with_fbref()` (requiere Edge/Chrome real — no se lanza
+  en *Run All*) cuando haya resultados nuevos en FBref que Kaggle todavía no
+  tenga. Actualmente Portugal-Croatia y los partidos del 3-jul todavía
+  aparecen como `scheduled`.
 - Reevaluar XGBoost vs. Poisson para el modelo del local cuando haya más
-  rondas jugadas: con solo 82 partidos (72 de fase de grupos), la variable de
-  fase del torneo apenas tiene variedad en el entrenamiento y XGBoost no
-  saca ventaja clara sobre un modelo mucho más simple. Ver el comentario al
-  inicio de la sección 4 de `mundial2026_modelo.ipynb`.
+  rondas jugadas: con los datos actuales (66 partidos de grupos en train) la
+  ventaja sigue siendo de Poisson (MAE 0.802 vs. 0.894 de XGBoost). Ver
+  sección 4 de `mundial2026_modelo.ipynb`.
