@@ -141,6 +141,9 @@ información en forma de heatmap + tabla + barras 1X2 + texto destacado.
   (MAE 0.806 → 0.752) y empata en el visitante (0.639 vs. 0.636)
 - `predict_match()` y visualización (`display_prediction()`)
 - `predict_round()` — tabla de predicciones de una ronda completa
+- `display_round()` — predicción visual completa (heatmap de marcadores,
+  1X2, marcadores más probables) de cada partido pendiente de la ronda en
+  curso, detectada automáticamente (sección 8 del notebook de modelo)
 - **Simulación Monte Carlo** (`simulate_tournament()`, sección 8 del notebook
   de modelo): 10 000 repeticiones del cuadro, probabilidades de avance por
   selección hasta campeón. Resultados guardados en `data/monte_carlo_probs.csv`
