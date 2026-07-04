@@ -1,10 +1,12 @@
 # Mundial 2026 — Predictor
 
 Proyecto de predicción de partidos del Mundial 2026 (48 selecciones). Combina
-datos de Kaggle, Transfermarkt y (opcionalmente) FBref con un modelo híbrido
-**Poisson + XGBoost** para predecir goles esperados y probabilidades de
-resultado (1X2 y marcador) de cualquier cruce del torneo, incluidos los que
-todavía no se han disputado.
+datos de Kaggle, Transfermarkt y (opcionalmente) FBref con un **doble XGBoost**
+(goles del local y del visitante) que usa Elo, ranking FIFA, forma pre-Mundial
+y **forma en-torneo** (xG a favor/en contra, posesión y tiros a puerta de los
+partidos ya jugados del propio Mundial) para predecir goles esperados y
+probabilidades de resultado (1X2 y marcador) de cualquier cruce del torneo,
+incluidos los que todavía no se han disputado.
 
 ## Estructura del repositorio
 
@@ -52,11 +54,15 @@ No hace **ninguna** petición de red: solo lee los ficheros que deja listos el
 notebook de datos.
 
 1. Construye `data/features.csv` (Elo, ranking FIFA, forma pre-Mundial
-   ponderada, fase del torneo, días de descanso) para cada partido ya jugado.
-2. Entrena un modelo **híbrido**: Poisson lineal para los goles del **local**
-   y XGBoost para los goles del **visitante** (ver "Estado actual" — es una
-   decisión basada en los datos disponibles ahora mismo, no una preferencia
-   de diseño).
+   ponderada, **forma en-torneo** — xG a favor/en contra, posesión y tiros a
+   puerta de los partidos anteriores del propio Mundial —, fase del torneo,
+   días de descanso) para cada partido ya jugado. Usar stats de partidos ya
+   disputados no es fuga de información; lo prohibido es usar los del propio
+   partido que se predice.
+2. Entrena **dos XGBoost** (goles del local y del visitante) con las 24
+   features (ver la comparación con Poisson en la sección 4 del notebook —
+   es una decisión basada en los datos disponibles ahora mismo, no una
+   preferencia de diseño).
 3. Expone `predict_match(home_team, away_team, phase)`, que da las lambdas de
    ambos modelos y una matriz de probabilidad de marcador vía Poisson.
 4. Sección visual con `display_prediction()`: heatmap de marcadores, tabla de
@@ -119,7 +125,7 @@ Marcadores más probables:
 `display_prediction("Portugal", "Croatia", "Round of 32")` da la misma
 información en forma de heatmap + tabla + barras 1X2 + texto destacado.
 
-## Estado actual del proyecto (3-jul-2026)
+## Estado actual del proyecto (4-jul-2026)
 
 **Completado:**
 - Scraping e integración de datos (Kaggle + Transfermarkt + FBref complementario)
@@ -127,9 +133,12 @@ información en forma de heatmap + tabla + barras 1X2 + texto destacado.
   octavos confirmados por FIFA (3-jul-2026): Canada-Morocco, Paraguay-France,
   Brazil-Norway, Mexico-England, USA-Belgium, Portugal-Spain
 - Feature engineering (Elo, ranking FIFA, forma ponderada por importancia de
-  competición, fase, descanso)
-- Modelo híbrido Poisson (local) + XGBoost (visitante), validado con split
-  temporal train/test (83 partidos jugados a 3-jul-2026)
+  competición, **forma en-torneo**: xG a favor/en contra, posesión y tiros a
+  puerta de los partidos anteriores del propio Mundial, fase, descanso)
+- Doble XGBoost (local y visitante, 24 features), validado con split temporal
+  train/test (88 partidos jugados a 4-jul-2026, R32 completo). La forma
+  en-torneo cierra el gap del XGBoost local frente al Poisson simple
+  (MAE 0.806 → 0.752) y empata en el visitante (0.639 vs. 0.636)
 - `predict_match()` y visualización (`display_prediction()`)
 - `predict_round()` — tabla de predicciones de una ronda completa
 - **Simulación Monte Carlo** (`simulate_tournament()`, sección 8 del notebook
@@ -143,9 +152,8 @@ información en forma de heatmap + tabla + barras 1X2 + texto destacado.
 **Pendiente / manual:**
 - Ejecutar `complement_with_fbref()` (requiere Edge/Chrome real — no se lanza
   en *Run All*) cuando haya resultados nuevos en FBref que Kaggle todavía no
-  tenga. Actualmente Portugal-Croatia y los partidos del 3-jul todavía
-  aparecen como `scheduled`.
-- Reevaluar XGBoost vs. Poisson para el modelo del local cuando haya más
-  rondas jugadas: con los datos actuales (66 partidos de grupos en train) la
-  ventaja sigue siendo de Poisson (MAE 0.802 vs. 0.894 de XGBoost). Ver
-  sección 4 de `mundial2026_modelo.ipynb`.
+  tenga.
+- Repetir la comparación de modelos (sección 4 de `mundial2026_modelo.ipynb`)
+  cuando se jueguen octavos y cuartos: con más partidos eliminatorios en el
+  train, tanto la elección XGBoost vs. Poisson como el peso de la forma
+  en-torneo pueden cambiar.
