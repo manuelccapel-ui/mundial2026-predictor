@@ -93,15 +93,21 @@ cf968279,2026-07-01,13:00,Round of 32,,Belgium,Senegal,3,2,,,Lumen Field (Neutra
 ,2026-07-05,18:00,Round of 16,,Mexico,England,2,3,,,Estadio Banorte (Neutral Site),80824,Alireza Faghani,,,played,True,kaggle+fbref,1.88,1.61,FIFA World Cup,4.0,67,20,5,12,14,1,2,0,2,49,7,6,33,6,5,2,7,0,4,1,3,4,4,9
 ,2026-07-06,17:00,Round of 16,,USA,Belgium,1,4,,,Lumen Field (Neutral Site),66925,Adham Makhadmeh,,,played,True,kaggle+fbref,0.67,2.15,FIFA World Cup,4.0,56,7,2,3,11,0,2,0,3,11,9,10,44,15,7,5,9,1,0,0,1,14,9,11
 ,2026-07-06,19:00,Round of 16,,Portugal,Spain,0,1,,,Miami Stadium (Hard Rock Stadium),70649,Anthony Taylor,,,played,True,kaggle+fbref,0.63,1.69,FIFA World Cup,4.0,45,10,2,3,9,2,2,0,5,13,7,9,55,15,6,7,13,1,1,0,2,16,5,15
-,2026-07-07,16:00,Round of 16,,Argentina,Egypt,,,,,Kansas City Stadium (Arrowhead Stadium),,Szymon Marciniak,,,scheduled,False,,,,FIFA World Cup,4.0,,,,,,,,,,,,,,,,,,,,,,,,
-,2026-07-07,20:00,Round of 16,,Switzerland,Colombia,,,,,Seattle Stadium (Lumen Field),,Danny Makkelie,,,scheduled,False,,,,FIFA World Cup,4.0,,,,,,,,,,,,,,,,,,,,,,,,
+,2026-07-07,16:00,Round of 16,,Argentina,Egypt,3,2,,,Kansas City Stadium (Arrowhead Stadium),68239,Szymon Marciniak,,,played,True,kaggle+fbref,2.12,1.54,FIFA World Cup,4.0,54,15,5,6,10,2,0,0,2,26,7,15,46,11,4,4,14,1,5,0,2,8,10,8
+,2026-07-07,20:00,Round of 16,,Switzerland,Colombia,0,0,4,3,Seattle Stadium (Lumen Field),52497,Danny Makkelie,Switzerland won a penalty shoot-out following extra time,,played,True,kaggle+fbref,1.15,1.46,FIFA World Cup,4.0,43,11,3,5,15,1,3,0,5,15,13,7,57,18,5,8,12,2,2,0,3,18,12,7
 ,2026-07-09,20:00,Quarter-finals,,France,Morocco,,,,,Boston Stadium (Gillette Stadium),,,,,scheduled,False,,,,FIFA World Cup,4.0,,,,,,,,,,,,,,,,,,,,,,,,
 ,2026-07-10,19:00,Quarter-finals,,,,,,,,Los Angeles Stadium (SoFi Stadium),,,,,scheduled,False,,,,FIFA World Cup,4.0,,,,,,,,,,,,,,,,,,,,,,,,
+,2026-07-10,19:00,Quarter-finals,,,,,,,,Los Angeles Stadium (SoFi Stadium),,Daniele Orsato,,,scheduled,False,,,,FIFA World Cup,4.0,,,,,,,,,,,,,,,,,,,,,,,,
 ,2026-07-10,19:00,Quarter-finals,,,,,,,,Los Angeles Stadium (SoFi Stadium),,Daniele Orsato,,,scheduled,False,,,,FIFA World Cup,4.0,,,,,,,,,,,,,,,,,,,,,,,,
 ,2026-07-11,21:00,Quarter-finals,,Norway,England,,,,,Miami Stadium (Hard Rock Stadium),,,,,scheduled,False,,,,FIFA World Cup,4.0,,,,,,,,,,,,,,,,,,,,,,,,
 ,2026-07-12,01:00,Quarter-finals,,,,,,,,Kansas City Stadium (Arrowhead Stadium),,,,,scheduled,False,,,,FIFA World Cup,4.0,,,,,,,,,,,,,,,,,,,,,,,,
 ,2026-07-12,01:00,Quarter-finals,,,,,,,,Kansas City Stadium (Arrowhead Stadium),,Anthony Taylor,,,scheduled,False,,,,FIFA World Cup,4.0,,,,,,,,,,,,,,,,,,,,,,,,
+,2026-07-12,01:00,Quarter-finals,,,,,,,,Kansas City Stadium (Arrowhead Stadium),,Anthony Taylor,,,scheduled,False,,,,FIFA World Cup,4.0,,,,,,,,,,,,,,,,,,,,,,,,
+,2026-07-14,20:00,Semi-finals,,,,,,,,Dallas Stadium (AT&T Stadium),,Clément Turpin,,,scheduled,False,,,,FIFA World Cup,4.0,,,,,,,,,,,,,,,,,,,,,,,,
 ,2026-07-14,20:00,Semi-finals,,,,,,,,Dallas Stadium (AT&T Stadium),,Clément Turpin,,,scheduled,False,,,,FIFA World Cup,4.0,,,,,,,,,,,,,,,,,,,,,,,,
 ,2026-07-15,20:00,Semi-finals,,,,,,,,Atlanta Stadium (Mercedes-Benz Stadium),,Danny Makkelie,,,scheduled,False,,,,FIFA World Cup,4.0,,,,,,,,,,,,,,,,,,,,,,,,
+,2026-07-15,20:00,Semi-finals,,,,,,,,Atlanta Stadium (Mercedes-Benz Stadium),,Danny Makkelie,,,scheduled,False,,,,FIFA World Cup,4.0,,,,,,,,,,,,,,,,,,,,,,,,
 ,2026-07-18,22:00,Third-place match,,,,,,,,Miami Stadium (Hard Rock Stadium),,Jesús Valenzuela,,,scheduled,False,,,,FIFA World Cup,4.0,,,,,,,,,,,,,,,,,,,,,,,,
+,2026-07-18,22:00,Third-place match,,,,,,,,Miami Stadium (Hard Rock Stadium),,Jesús Valenzuela,,,scheduled,False,,,,FIFA World Cup,4.0,,,,,,,,,,,,,,,,,,,,,,,,
+,2026-07-19,20:00,Final,,,,,,,,New York New Jersey Stadium (MetLife Stadium),,Wilton Sampaio,,,scheduled,False,,,,FIFA World Cup,4.0,,,,,,,,,,,,,,,,,,,,,,,,
 ,2026-07-19,20:00,Final,,,,,,,,New York New Jersey Stadium (MetLife Stadium),,Wilton Sampaio,,,scheduled,False,,,,FIFA World Cup,4.0,,,,,,,,,,,,,,,,,,,,,,,,
